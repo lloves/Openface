@@ -1,0 +1,9 @@
+/home/openface-build/build/lib/local/FaceAnalyser/CMakeFiles/FaceAnalyser.dir
+/home/openface-build/build/exe/FaceLandmarkImg/CMakeFiles/FaceLandmarkImg.dir
+/home/openface-build/build/exe/FaceLandmarkVid/CMakeFiles/FaceLandmarkVid.dir
+/home/openface-build/build/exe/FaceLandmarkVidMulti/CMakeFiles/FaceLandmarkVidMulti.dir
+/home/openface-build/build/exe/FeatureExtraction/CMakeFiles/FeatureExtraction.dir
+/home/openface-build/build/lib/local/GazeAnalyser/CMakeFiles/GazeAnalyser.dir
+/home/openface-build/build/lib/local/LandmarkDetector/CMakeFiles/LandmarkDetector.dir
+/home/openface-build/build/lib/local/Utilities/CMakeFiles/Utilities.dir
+/home/openface-build/build/lib/3rdParty/dlib/CMakeFiles/dlib.dir
